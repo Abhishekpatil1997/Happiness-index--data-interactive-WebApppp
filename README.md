@@ -1,0 +1,1 @@
+# This is a simple interactive Web-App which takes the Data for various contries and then you can compare the parameter against each other through a scatter plot and interpret the data.
